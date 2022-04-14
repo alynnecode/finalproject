@@ -1,0 +1,85 @@
+.mid {
+	background-color: red;
+	display: inline-block;
+	width: 63%;
+	margin: auto;
+}
+
+.navbar{
+ 
+	display:inline-block;
+}
+
+
+
+
+.navbar li{
+
+list-style: none;
+display:inline-block;
+
+margin:auto;
+}
+
+.navbar li a{
+text-decoration: none;
+color:wheat;
+font-size: 18px;
+padding:8px 20px;
+}
+
+.navbar li a:hover{
+color:salmon(151, 7, 247);
+border: darkmagenta;
+border-radius: 2px;
+font-size: 20px;
+}
+
+.navbar li a:active{
+background-color: red;
+border-radius: 5px;
+}
+.right {
+	background-color: aqua;
+display: inline-block;
+width: 8%;
+
+font-size: 18px;
+padding: 18px 26px;
+color: wheat;
+}
+
+.right {
+	background-color:red;
+display: inline-block;
+width: 8%;
+
+font-size: 18px;
+padding: 18px 26px;
+color: wheat;
+}
+	.right a{
+text-decoration:none;
+color: wheat;
+}
+.right:hover{
+font-weight:bolder;
+}
+
+.left {
+	background-color:red;
+display: inline-block;
+width: 17%;
+font-size: 18px;
+padding: 18px 17px;
+color: wheat;
+
+
+}
+.left a{
+text-decoration:none;
+color: wheat;
+}
+.left:hover{
+font-weight:bolder;
+}
